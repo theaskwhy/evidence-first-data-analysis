@@ -1,0 +1,14 @@
+{
+  "name": "evidence-first-data-analysis",
+  "owner": {
+    "name": "The Ask Why Company",
+    "url": "https://github.com/theaskwhy"
+  },
+  "plugins": [
+    {
+      "name": "evidence-first-data-analysis",
+      "source": "./",
+      "description": "Analyze and validate datasets with reproducible, evidence-backed methods. Read-only by default; never fabricate metrics or perform data writes."
+    }
+  ]
+}

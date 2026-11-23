@@ -1,0 +1,9 @@
+{
+  "name": "evidence-first-data-analysis",
+  "description": "Analyze and validate datasets with reproducible, evidence-backed methods. Read-only by default; never fabricate metrics or perform data writes.",
+  "version": "1.0.0",
+  "author": {
+    "name": "The Ask Why Company"
+  },
+  "license": "MIT"
+}
